@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "ESP32-Test-Expfrmwrk",
+			"path": "ESP32-Test-Expfrmwrk"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"gpio.h": "c",
+			"freertos.h": "c",
+			"sockets.h": "c",
+			"nvs_flash.h": "c",
+			"wifi_module.h": "c",
+			"task.h": "c",
+			"esp_log.h": "c",
+			"stdio.h": "c",
+			"string.h": "c",
+			"esp_wifi.h": "c",
+			"esp_netif.h": "c",
+			"init.h": "c",
+			"tcp_client.h": "c"
+		}
+	}
+}
